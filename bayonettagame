@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    
+        <meta charset="UFT-8">
+        <meta http-equiv="X-UA-COMPATIBLE" content="">
+        <meta name="viewport" content="width=device-w">
+        <meta name="author" content="Ya Garcia">
+             <title>GAMEByonetta</title>
+             <link rel="stylesheet" href="./css/stylegame.css">
+</head>
+<header>
+    <figure>
+        <img src="img/BAYONETTA GAMES.jpg" alt="desapareceu">
+          <title> este é o logo do meu site!</title>
+  </figure>
+<nav>
+  <a href="#">categoria</a>
+  <a href="#">mobile</a>
+  <a href="#">dicas</a>
+  <a href="#">ajuda</a>
+  <a href="#">contato</a>
+</nav>
+</header>
+
+<body>
+             <main class="conteiner">
+             
+              
+              <img src="img/vavab9.png" alt="valorant">
+              
+              
+               <img src="img/free-fire.png" alt="free-fire">
+              
+               
+                <img src="img/Minecraft.jpg" alt="Minecraft">
+
+                <img src="./img/league-of-legends.png" alt="">
+                 
+                <img src="./img/clash.png" alt="">
+                  
+                <img src="./img/fortnite.png" alt="">
+            
+             </main>
+   </body>  
+
+<footer>
+       <p> MADE BY- YA GARCIA &copy;</p>
+
+
+   </footer>
+
+
+
+</html>
